@@ -1,12 +1,12 @@
-#System-Analysis-and-Design
-#System Analysis and Design: Promo Code Management System
-##Overview
-This project is a coursework submission for a System Analysis and Design course, focusing on designing a promo code management system for an internet shopping company. The system enables the marketing team to create, update, and track promotional codes, communicate offers to customers via email, and automatically adjust customer accounts when codes are applied or goods are returned. The design ensures flexibility, ease of use, and integration with the company’s existing systems.
-##Key Features
 
-###Flexible Promo Code Management: Allows the marketing team to create and modify promo codes without requiring additional programming changes.
-###Usage Tracking: Tracks the usage of each promo code for analysis and reporting.
-###Customer Communication: Sends automated emails to customers with details of promotions and promo codes.
+# System Analysis and Design: Promo Code Management System
+## Overview
+This project is a coursework submission for a System Analysis and Design course, focusing on designing a promo code management system for an internet shopping company. The system enables the marketing team to create, update, and track promotional codes, communicate offers to customers via email, and automatically adjust customer accounts when codes are applied or goods are returned. The design ensures flexibility, ease of use, and integration with the company’s existing systems.
+## Key Features
+
+### Flexible Promo Code Management: Allows the marketing team to create and modify promo codes without requiring additional programming changes.
+### Usage Tracking: Tracks the usage of each promo code for analysis and reporting.
+### Customer Communication: Sends automated emails to customers with details of promotions and promo codes.
 ###Account Adjustments: Automatically updates customer accounts when promo codes are applied or when goods are returned.
 
 ##Diagrams
