@@ -16,10 +16,10 @@ This project is a coursework submission for a System Analysis and Design course,
 The following diagrams provide a visual representation of the system’s design and interactions:
 
 **Activity Diagram:** Details the process flow when a customer applies a promo code to an order.
-![Activity Diagram] (activity_diagram.jpg)
+![Activity Diagram](activity_diagram.jpg)
 
 **Domain Model Class Diagram:** Depicts the data structure, including the new Promotion class and its relationships with existing classes like Order and Product.
-![Domain Model] (domain_model_class.png)
+![Domain Model](domain_model_class.png)
 
 ## Full Report
 For a comprehensive overview of the project, including detailed requirements, design aspects, and system specifications, please refer to the full report.
