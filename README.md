@@ -29,7 +29,7 @@ For a comprehensive overview of the project, including detailed requirements, de
 **Tools:** Microsoft Word for the report, Visual Diagram Studio for visual representations.
 **Methodologies:** Requirements gathering, system design, and documentation following standard system analysis practices.
 
-##How to View
+## How to View
 
 The full report is available as a PDF: System_Analysis_and_Design_Report.pdf.
 Diagrams are provided as individual images for easy reference:
